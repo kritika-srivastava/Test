@@ -1,0 +1,17 @@
+.timer {
+  position: fixed;
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  height: 10%;
+  background-color: rgb(249, 249, 203);
+  border: 1%;
+  border-color: rgb(224, 224, 224);
+  border-radius: 3px;
+
+}.timer-val
+{
+  text-align: center;
+  font-size: larger;
+}
